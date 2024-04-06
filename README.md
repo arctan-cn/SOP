@@ -1,6 +1,6 @@
 # SOP
 ### 使用Python开发的航天器轨迹预测器
-#### A spacecraft orbit trajectory calculator that developed with Python
+#### 配置文件（config.json）：
 ```json
 {
     "simulator":{
@@ -17,4 +17,4 @@
     }
 }
 ```
-将参数输入config.json即可
+#### 将参数输入config.json即可
