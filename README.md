@@ -1,4 +1,4 @@
-# SOP
+# SOP (Spacecraft Orbit Predictor)
 ### 使用Python开发的航天器轨迹预测器
 #### 配置文件（config.json）：
 ```json
